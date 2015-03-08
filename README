@@ -1,0 +1,9 @@
+The ./build_all.sh is for a OSX env with openCV installed. 
+
+To run:
+./ply2img <plyFile> <imgOut>
+
+Required 
+
+libply - http://people.cs.kuleuven.be/~ares.lagae/libply/
+
